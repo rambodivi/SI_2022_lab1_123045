@@ -3,3 +3,4 @@ laptop x 10
 juice x 4
 appleNEW x 2
 orange x 10
+bread x 1
