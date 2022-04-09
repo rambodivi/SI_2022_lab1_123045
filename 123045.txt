@@ -1,0 +1,79 @@
+commit f2ad7d77b157965135760ae850357ce232cb9f88 (HEAD -> branch2)
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 22:00:03 2022 +0200
+
+    Modify item #4 and add item #6
+
+commit 92f6f15d694d14d3693bcac1df489e2c07d339d3
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:56:51 2022 +0200
+
+    Modify item #4
+
+commit a8b7ca71814547a31f754353589440a5057044ab (origin/main, origin/HEAD)
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:45:51 2022 +0200
+
+    Add quantities to the items.
+
+commit 330ed2cd8363babf109e7ba622a9a91d6b1adab7
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:44:58 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit fc26f3714876e72e2ef36b6c0a27558356889751
+Author: Martin Stankovski <55986910+rambodivi@users.noreply.github.com>
+:
+
+commit 92f6f15d694d14d3693bcac1df489e2c07d339d3 (HEAD -> branch2)
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:56:51 2022 +0200
+
+    Modify item #4
+
+commit a8b7ca71814547a31f754353589440a5057044ab (origin/main, origin/HEAD)
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:45:51 2022 +0200
+
+    Add quantities to the items.
+
+commit 330ed2cd8363babf109e7ba622a9a91d6b1adab7
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:44:58 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit fc26f3714876e72e2ef36b6c0a27558356889751
+Author: Martin Stankovski <55986910+rambodivi@users.noreply.github.com>
+Date:   Sat Apr 9 12:28:13 2022 +0200
+
+    Update README.md
+
+commit 3cf0eeab128b1bfc8f5bf008948d72cdb8966ef8
+Author: Martin Stankovski <55986910+rambodivi@users.noreply.github.com>
+:
+
+commit a8b7ca71814547a31f754353589440a5057044ab (HEAD -> main, branch2, branch1)
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:45:51 2022 +0200
+
+    Add quantities to the items.
+
+commit 330ed2cd8363babf109e7ba622a9a91d6b1adab7
+Author: unknown <m.stankovski@mima-it.net>
+Date:   Sat Apr 9 21:44:58 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit fc26f3714876e72e2ef36b6c0a27558356889751 (origin/main, origin/HEAD)
+Author: Martin Stankovski <55986910+rambodivi@users.noreply.github.com>
+Date:   Sat Apr 9 12:28:13 2022 +0200
+
+    Update README.md
+
+commit 3cf0eeab128b1bfc8f5bf008948d72cdb8966ef8
+Author: Martin Stankovski <55986910+rambodivi@users.noreply.github.com>
+Date:   Sat Apr 9 12:27:34 2022 +0200
+
+    Initial commit
