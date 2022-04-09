@@ -1,5 +1,5 @@
-phone
-laptop
-juice
-apple
-orange
+phone x 2
+laptop x 3
+juice x 4
+apple x 2
+orange x 5
